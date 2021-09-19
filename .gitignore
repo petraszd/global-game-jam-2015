@@ -1,0 +1,5 @@
+*.swp
+Temp
+Library
+Build
+.DS_Store
